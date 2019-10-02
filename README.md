@@ -1,4 +1,4 @@
-# awesome-wordlists [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Wordlists [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of wordlists used in general security stuff
 
 ## Passwords
