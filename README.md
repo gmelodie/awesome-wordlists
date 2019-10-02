@@ -1,2 +1,2 @@
-# awesome-wordlists
-A curated list of good wordlists
+# awesome-wordlists [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+A curated list of wordlists used in general security stuff
