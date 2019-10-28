@@ -10,6 +10,11 @@ A curated list of wordlists for bruteforcing and fuzzing
 --------------------
 
 ## Directories
+- [Dirbuster Wordlists](https://github.com/3ndG4me/KaliLists/tree/master/dirbuster) - Dirbuster's default directories wordlists
+- [Dirb Wordlists](https://github.com/3ndG4me/KaliLists/tree/master/dirb) - Dirb's default wordlists
+- [ws-dirs](https://github.com/3ndG4me/KaliLists/blob/master/wfuzz/webservices/ws-dirs.txt) - wfuzz webservices directories' wordlist
+- [ws-files](https://github.com/3ndG4me/KaliLists/blob/master/wfuzz/webservices/ws-files.txt) - wfuzz webservices files' wordlist
+
 
 ## Emails
 
@@ -24,4 +29,6 @@ A curated list of wordlists for bruteforcing and fuzzing
 ## Miscellaneous
 - [Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Basically a research on several types of wordlists
 - [SecLists](https://github.com/danielmiessler/SecLists) - Several wordlists categorized by type
+- [Kali Wordlists](https://github.com/3ndG4me/KaliLists) - Kali Linux's default wordlists
+
 
