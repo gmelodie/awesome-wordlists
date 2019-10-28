@@ -18,6 +18,8 @@ A curated list of wordlists for bruteforcing and fuzzing
 
 
 ## Emails
+- [Xajkep's email providers](https://github.com/xajkep/wordlists/blob/master/misc/email_free_providers.txt) - Email providers from xajkep's wordlists
+- []()
 
 ## Passwords
 - [RockYou](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=2ahUKEwj1z-bXsfzkAhVgGbkGHfV9AMsQFjADegQIARAB&url=https%3A%2F%2Fgithub.com%2Fbrannondorsey%2Fnaive-hashcat%2Freleases%2Fdownload%2Fdata%2Frockyou.txt&usg=AOvVaw3snAERl1mU6Ccr4WFEazBd) - The go-to wordlist for passwords
@@ -34,5 +36,6 @@ A curated list of wordlists for bruteforcing and fuzzing
 - [Kali Wordlists](https://github.com/3ndG4me/KaliLists) - Kali Linux's default wordlists
 - [Blog g0tmi1k](http://blog.g0tmi1k.com/2011/06/dictionaries-wordlists/) - G0tmi1k's post on what makes a good dictionary
 - [Skull Security Passwords](https://wiki.skullsecurity.org/Passwords) - Skull Security's password lists
+- [Xajkep's Wordlists](https://github.com/xajkep/wordlists) - List of wordlists from xajkep
 
 
