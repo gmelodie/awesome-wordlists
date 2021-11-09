@@ -34,4 +34,11 @@ A curated list of wordlists for bruteforcing and fuzzing
 - [Skull Security Passwords](https://wiki.skullsecurity.org/Passwords) - Skull Security's password lists
 - [Xajkep's Wordlists](https://github.com/xajkep/wordlists) - List of wordlists from xajkep
 
+## Contributing
+I want contributing to this awesome list to be as simple as possible, just:
+1. Fork the repo
+2. Add your changes to the list
+3. Add yourself to `CONTRIBUTORS.md`
+4. Submit a PR
 
+Thank you for contributing!!
