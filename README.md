@@ -1,14 +1,9 @@
 # Awesome Wordlists [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of wordlists for bruteforcing and fuzzing
 
---------------------
-- [Enumeration](#enumeration)
-- [Emails](#emails)
-- [Passwords](#passwords)
-- [Usernames](#usernames)
-- [Miscellaneous](#miscellaneous)
-
---------------------
+## Lists of Lists
+- [Seclists](https://github.com/danielmiessler/SecLists) - Collection of useful wordlists grouped by context
+- [Xajkep's Wordlists](https://github.com/xajkep/wordlists) - Wordlists curated by Xajkep grouped by context
 
 ## Enumeration
 - [Dirbuster Wordlists](https://github.com/3ndG4me/KaliLists/tree/master/dirbuster) - Dirbuster's default directories wordlists
