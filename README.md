@@ -22,11 +22,13 @@ A curated list of wordlists for bruteforcing and fuzzing
 - [WPA-Length Passwords](https://github.com/berzerk0/Probable-Wordlists/tree/master/Real-Passwords/WPA-Length) - Passwords with WPA length
 - [SecLists' Passwords](https://github.com/danielmiessler/SecLists/tree/master/Passwords) - Password wordlists from SecLists
 - [CrackStation](https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm) - CrackStation's password wordlist
-- [albanian-wordlist](https://github.com/its0x08/albanian-wordlist) - An albanian password list. 
-- [danish-wordlists](https://github.com/narkopolo/danish-wordlists) - Collection of danish base wordlists.
 
 ## Usernames
 - [SecLists' Usernames](https://github.com/danielmiessler/SecLists/tree/master/Usernames) - Username wordlists from SecLists
+
+## Other languages
+- [French wordlists](https://github.com/clem9669/wordlists)
+- [danish-wordlists](https://github.com/narkopolo/danish-wordlists) - Collection of danish base wordlists.
 
 ## Miscellaneous
 - [Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Basically a research on several types of wordlists
