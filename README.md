@@ -23,6 +23,7 @@ A curated list of wordlists for bruteforcing and fuzzing
 - [SecLists' Passwords](https://github.com/danielmiessler/SecLists/tree/master/Passwords) - Password wordlists from SecLists
 - [CrackStation](https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm) - CrackStation's password wordlist
 - [albanian-wordlist](https://github.com/its0x08/albanian-wordlist) - An albanian password list. 
+- [danish-wordlists](https://github.com/narkopolo/danish-wordlists) - Collection of danish base wordlists.
 
 ## Usernames
 - [SecLists' Usernames](https://github.com/danielmiessler/SecLists/tree/master/Usernames) - Username wordlists from SecLists
