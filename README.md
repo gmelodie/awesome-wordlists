@@ -13,6 +13,7 @@ A curated list of wordlists for bruteforcing and fuzzing
 - [Directories](https://github.com/xajkep/wordlists/blob/master/discovery/directory_only_one.small.txt) - xajkep's directories
 - [Backup files](https://github.com/xajkep/wordlists/blob/master/discovery/backup_files_only.txt) - xajkep's backup files
 - [Backup files with path](https://github.com/xajkep/wordlists/blob/master/discovery/backup_files_with_path.txt) - xajkep's backup files with paths
+- [n0kovo_subdomains](https://github.com/n0kovo/n0kovo_subdomains) - An extremely effective subdomain wordlist of 3,000,000 lines, crafted by harvesting SSL certs from the entire IPv4 space.
 
 ## Emails
 - [Xajkep's email providers](https://github.com/xajkep/wordlists/blob/master/misc/email_free_providers.txt) - Email providers from xajkep's wordlists
