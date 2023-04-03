@@ -28,7 +28,7 @@ A curated list of wordlists for bruteforcing and fuzzing
 
 ## Other languages
 - [French wordlists](https://github.com/clem9669/wordlists)
-- [danish-wordlists](https://github.com/narkopolo/danish-wordlists) - Collection of danish base wordlists.
+- [danish-wordlists](https://github.com/n0kovo/danish-wordlists) - Collection of danish base wordlists.
 - [albanian-wordlist](https://github.com/its0x08/albanian-wordlist) - Albanian wordlist - A mix of names, last names and some albanian literature.
 
 ## Miscellaneous
