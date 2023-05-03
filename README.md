@@ -41,6 +41,7 @@ A curated list of wordlists for bruteforcing and fuzzing
 - [Skull Security Passwords](https://wiki.skullsecurity.org/Passwords) - Skull Security's password lists
 - [Xajkep's Wordlists](https://github.com/xajkep/wordlists) - List of wordlists from xajkep
 - [Trickest Wordlists](https://github.com/trickest/wordlists) - Real-world infosec wordlists, updated regularly.
+- [Assetnote Wordlists](https://github.com/assetnote/wordlists) - Automated & Manual Wordlists provided by Assetnote.
 
 ## Contributing
 I want contributing to this awesome list to be as simple as possible, just:
