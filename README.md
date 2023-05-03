@@ -4,6 +4,7 @@ A curated list of wordlists for bruteforcing and fuzzing
 ## Lists of Lists
 - [Seclists](https://github.com/danielmiessler/SecLists) - Collection of useful wordlists grouped by context
 - [Xajkep's Wordlists](https://github.com/xajkep/wordlists) - Wordlists curated by Xajkep grouped by context
+- [Bug-Bounty-Wordlists](https://github.com/Karanxa/Bug-Bounty-Wordlists) - A repository that includes all the important wordlists used while bug hunting.
 
 ## Enumeration
 - [Dirbuster Wordlists](https://github.com/3ndG4me/KaliLists/tree/master/dirbuster) - Dirbuster's default directories wordlists
@@ -23,9 +24,14 @@ A curated list of wordlists for bruteforcing and fuzzing
 - [WPA-Length Passwords](https://github.com/berzerk0/Probable-Wordlists/tree/master/Real-Passwords/WPA-Length) - Passwords with WPA length
 - [SecLists' Passwords](https://github.com/danielmiessler/SecLists/tree/master/Passwords) - Password wordlists from SecLists
 - [CrackStation](https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm) - CrackStation's password wordlist
+- [Active-Directory-Wordlists' Passwords](https://github.com/Cryilllic/Active-Directory-Wordlists/blob/master/Pass.txt) - Most common Active-Directory Passwords.
 
 ## Usernames
 - [SecLists' Usernames](https://github.com/danielmiessler/SecLists/tree/master/Usernames) - Username wordlists from SecLists
+- [Active-Directory-Wordlists' Users](https://github.com/Cryilllic/Active-Directory-Wordlists/blob/master/User.txt) -  - Most common Active-Directory Usernames.
+
+## Vulnerabilities 
+- [NoSQL-Injection Wordlist](https://github.com/cr0hn/nosqlinjection_wordlists/blob/master/mongodb_nosqli.txt) - List of payload to test NoSQL Injections.
 
 ## Other languages
 - [French wordlists](https://github.com/clem9669/wordlists)
