@@ -5,3 +5,4 @@ Thank you so much for everyone who helped make this list better!
 - [narkopolo](https://github.com/narkopolo/)
 - [its0x08](https://github.com/its0x08)
 - [theophpo](https://github.com/theophpo)
+- [P1YUSH](https://github.com/piyush-security/)
