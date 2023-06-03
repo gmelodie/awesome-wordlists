@@ -35,8 +35,8 @@ A curated list of wordlists for bruteforcing and fuzzing
 
 ## Other languages
 - [French wordlists](https://github.com/clem9669/wordlists)
-- [danish-wordlists](https://github.com/n0kovo/danish-wordlists) - Collection of danish base wordlists.
-- [albanian-wordlist](https://github.com/its0x08/albanian-wordlist) - Albanian wordlist - A mix of names, last names and some albanian literature.
+- [danish-wordlists](https://github.com/n0kovo/danish-wordlists) - Collection of Danish base wordlists.
+- [albanian-wordlist](https://github.com/its0x08/albanian-wordlist) - Albanian wordlist - A mix of names, last names and some Albanian literature.
 - [medical-wordlist](https://github.com/theophpo/medical-wordlist) - Medical wordlists in English, French, and Ukrainian languages, which can be used for spell checking.
 
 ## Miscellaneous
