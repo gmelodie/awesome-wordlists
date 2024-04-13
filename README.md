@@ -2,7 +2,7 @@
 A curated list of wordlists for bruteforcing and fuzzing
 
 ## Lists of Lists
-- [Seclists](https://github.com/danielmiessler/SecLists) - Collection of useful wordlists grouped by context
+- [seclists](https://github.com/danielmiessler/SecLists) - Collection of useful wordlists grouped by context
 - [Xajkep's Wordlists](https://github.com/xajkep/wordlists) - Wordlists curated by Xajkep grouped by context
 - [Bug-Bounty-Wordlists](https://github.com/Karanxa/Bug-Bounty-Wordlists) - A repository that includes all the important wordlists used while bug hunting.
 
@@ -33,7 +33,7 @@ A curated list of wordlists for bruteforcing and fuzzing
 ## Vulnerabilities 
 - [NoSQL-Injection Wordlist](https://github.com/cr0hn/nosqlinjection_wordlists/blob/master/mongodb_nosqli.txt) - List of payload to test NoSQL Injections.
 
-## Other languages
+## Non-English wordlists
 - [French wordlists](https://github.com/clem9669/wordlists)
 - [danish-wordlists](https://github.com/n0kovo/danish-wordlists) - Collection of Danish base wordlists.
 - [albanian-wordlist](https://github.com/its0x08/albanian-wordlist) - Albanian wordlist - A mix of names, last names and some Albanian literature.
