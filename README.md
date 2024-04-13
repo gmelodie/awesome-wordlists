@@ -33,7 +33,12 @@ A curated list of wordlists for bruteforcing and fuzzing
 ## Vulnerabilities 
 - [NoSQL-Injection Wordlist](https://github.com/cr0hn/nosqlinjection_wordlists/blob/master/mongodb_nosqli.txt) - List of payload to test NoSQL Injections.
 
-## Non-English wordlists
+## Portuguese wordlists
+- [Dadoware](https://github.com/thoughtworks/dadoware) - Regular portuguese words
+- [words-pt](https://github.com/jfoclpf/words-pt) - Regular portuguese words
+- [br-wordlist](https://github.com/mmatje/br-wordlist) - Brazilian password wordlist
+
+## Other non-English wordlists
 - [French wordlists](https://github.com/clem9669/wordlists)
 - [danish-wordlists](https://github.com/n0kovo/danish-wordlists) - Collection of Danish base wordlists.
 - [albanian-wordlist](https://github.com/its0x08/albanian-wordlist) - Albanian wordlist - A mix of names, last names and some Albanian literature.
