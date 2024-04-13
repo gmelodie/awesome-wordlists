@@ -37,6 +37,7 @@ A curated list of wordlists for bruteforcing and fuzzing
 - [Dadoware](https://github.com/thoughtworks/dadoware) - Regular portuguese words
 - [words-pt](https://github.com/jfoclpf/words-pt) - Regular portuguese words
 - [br-wordlist](https://github.com/mmatje/br-wordlist) - Brazilian password wordlist
+- [BRDumps](https://github.com/BRDumps) - Localized tools and wordlists for Brazilian Portuguese passwords 
 
 ## Other non-English wordlists
 - [French wordlists](https://github.com/clem9669/wordlists)
