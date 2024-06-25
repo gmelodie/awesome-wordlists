@@ -5,6 +5,7 @@ A curated list of wordlists for bruteforcing and fuzzing
 - [seclists](https://github.com/danielmiessler/SecLists) - Collection of useful wordlists grouped by context
 - [Xajkep's Wordlists](https://github.com/xajkep/wordlists) - Wordlists curated by Xajkep grouped by context
 - [Bug-Bounty-Wordlists](https://github.com/Karanxa/Bug-Bounty-Wordlists) - A repository that includes all the important wordlists used while bug hunting.
+- [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome) - A Repository that include about all kinds of interesting topics in Technology.
 
 ## Enumeration
 - [Dirbuster Wordlists](https://github.com/3ndG4me/KaliLists/tree/master/dirbuster) - Dirbuster's default directories wordlists
