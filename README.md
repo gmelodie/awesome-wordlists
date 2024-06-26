@@ -48,11 +48,9 @@ A curated list of wordlists for bruteforcing and fuzzing
 
 ## Miscellaneous
 - [Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Basically a research on several types of wordlists
-- [SecLists](https://github.com/danielmiessler/SecLists) - Several wordlists categorized by type
 - [Kali Wordlists](https://github.com/3ndG4me/KaliLists) - Kali Linux's default wordlists
 - [Blog g0tmi1k](http://blog.g0tmi1k.com/2011/06/dictionaries-wordlists/) - G0tmi1k's post on what makes a good dictionary
 - [Skull Security Passwords](https://wiki.skullsecurity.org/Passwords) - Skull Security's password lists
-- [Xajkep's Wordlists](https://github.com/xajkep/wordlists) - List of wordlists from xajkep
 - [Trickest Wordlists](https://github.com/trickest/wordlists) - Real-world infosec wordlists, updated regularly.
 - [Assetnote Wordlists](https://github.com/assetnote/wordlists) - Automated & Manual Wordlists provided by Assetnote.
 
