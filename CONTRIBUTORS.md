@@ -7,3 +7,4 @@ Thank you so much for everyone who helped make this list better!
 - [theophpo](https://github.com/theophpo)
 - [P1YUSH](https://github.com/piyush-security/)
 - [iam-py-test](https://github.com/iam-py-test/)
+- [itsmohitnarayan](https://github.com/itsmohitnarayan/)
