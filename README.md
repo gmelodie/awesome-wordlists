@@ -18,7 +18,7 @@ A curated list of wordlists for bruteforcing and fuzzing
 - [n0kovo_subdomains](https://github.com/n0kovo/n0kovo_subdomains) - An extremely effective subdomain wordlist of 3,000,000 lines, crafted by harvesting SSL certs from the entire IPv4 space.
 
 ## Emails
-- [Xajkep's email providers](https://github.com/xajkep/wordlists/blob/master/misc/email_free_providers.txt) - Email providers from xajkep's wordlists
+- [Xajkep's email providers](https://github.com/xajkep/wordlists/blob/master/misc/email_free_providers.txt) - Email providers from xajkep's Repo
 
 ## Passwords
 - [RockYou](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt) - The go-to wordlist for passwords
