@@ -1,7 +1,7 @@
 # Awesome Wordlists [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of wordlists for bruteforcing and fuzzing.
 
-## Table of Contents
+## Contents
 - [Lists of Lists](#lists-of-lists)
 - [Enumeration](#enumeration)
 - [Emails](#emails)
