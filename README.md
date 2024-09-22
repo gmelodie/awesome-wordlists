@@ -39,11 +39,12 @@ A curated list of wordlists for bruteforcing and fuzzing.
 - [SecLists' Passwords](https://github.com/danielmiessler/SecLists/tree/master/Passwords) - Password wordlists from SecLists.
 - [CrackStation](https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm) - CrackStation's password wordlist.
 - [Active-Directory-Wordlists' Passwords](https://github.com/Cryilllic/Active-Directory-Wordlists/blob/master/Pass.txt) - Most common Active-Directory passwords.
-- [Weakpass](https://weakpass.com/wordlist) -  Collection of more than 1500 password wordlists. 
+- [Weakpass](https://weakpass.com/wordlist) -  Collection of more than 1500 password wordlists with torrent links for faster downloads. 
 
 ## Usernames
 - [SecLists' Usernames](https://github.com/danielmiessler/SecLists/tree/master/Usernames) - Username wordlists from SecLists.
 - [Active-Directory-Wordlists' Users](https://github.com/Cryilllic/Active-Directory-Wordlists/blob/master/User.txt) - Most common Active-Directory usernames.
+- [fbnames](https://infocon.org/word%20lists/fbnames.rar) - Names of Facebook users from 2010. 
 
 ## Vulnerabilities 
 - [NoSQL-Injection Wordlist](https://github.com/cr0hn/nosqlinjection_wordlists/blob/master/mongodb_nosqli.txt) - List of payloads to test NoSQL Injections.
