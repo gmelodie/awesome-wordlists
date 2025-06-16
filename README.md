@@ -39,7 +39,8 @@ A curated list of wordlists for bruteforcing and fuzzing.
 - [SecLists' Passwords](https://github.com/danielmiessler/SecLists/tree/master/Passwords) - Password wordlists from SecLists.
 - [CrackStation](https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm) - CrackStation's password wordlist.
 - [Active-Directory-Wordlists' Passwords](https://github.com/Cryilllic/Active-Directory-Wordlists/blob/master/Pass.txt) - Most common Active-Directory passwords.
-- [Weakpass](https://weakpass.com/wordlist) -  Collection of more than 1500 password wordlists with torrent links for faster downloads. 
+- [Weakpass](https://weakpass.com/wordlist) -  Collection of more than 1500 password wordlists with torrent links for faster downloads.
+- [vie_wpa2_pw](https://github.com/sakkarose/vie_wpa2_pw) - Regional (Vietnam) WPA2 wordlists & hashcat rules.
 
 ## Usernames
 - [SecLists' Usernames](https://github.com/danielmiessler/SecLists/tree/master/Usernames) - Username wordlists from SecLists.
@@ -89,3 +90,4 @@ Thank you so much to everyone who helped make this list better!
 - [iam-py-test](https://github.com/iam-py-test/)
 - [itsmohitnarayan](https://github.com/itsmohitnarayan/)
 - [keyboardslap](https://github.com/keyboardslap/)
+- [sakkarose](https://github.com/sakkarose)
