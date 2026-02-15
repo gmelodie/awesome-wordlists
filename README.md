@@ -19,6 +19,7 @@ A curated list of wordlists for bruteforcing and fuzzing.
 - [Xajkep's Wordlists](https://github.com/xajkep/wordlists) - Wordlists curated by Xajkep grouped by context.
 - [Bug-Bounty-Wordlists](https://github.com/Karanxa/Bug-Bounty-Wordlists) - A repository that includes all the important wordlists used while bug hunting.
 - [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome) - A repository that includes lists about all kinds of interesting topics in technology.
+- [OneListForAll](https://github.com/six2dez/OneListForAll) - Massive consolidated wordlist for multiple offensive security use cases.
 
 ## Enumeration
 - [Dirbuster Wordlists](https://github.com/3ndG4me/KaliLists/tree/master/dirbuster) - Dirbuster's default directories wordlists.
@@ -29,6 +30,8 @@ A curated list of wordlists for bruteforcing and fuzzing.
 - [Backup files](https://github.com/xajkep/wordlists/blob/master/discovery/backup_files_only.txt) - xajkep's backup files wordlist.
 - [Backup files with path](https://github.com/xajkep/wordlists/blob/master/discovery/backup_files_with_path.txt) - xajkep's backup files with paths.
 - [n0kovo_subdomains](https://github.com/n0kovo/n0kovo_subdomains) - An extremely effective subdomain wordlist of 3,000,000 lines, crafted by harvesting SSL certs from the entire IPv4 space.
+- [api_wordlist](https://github.com/chrislockard/api_wordlist) - API endpoints and routes wordlist for API discovery.
+- [AWS S3 Bucket Wordlist](https://github.com/koaj/aws-s3-bucket-wordlist/blob/master/list.txt) - Wordlist for discovering AWS S3 bucket names.
 
 ## Emails
 - [Xajkep's email providers](https://github.com/xajkep/wordlists/blob/master/misc/email_free_providers.txt) - Email providers from xajkep's repository.
@@ -49,6 +52,8 @@ A curated list of wordlists for bruteforcing and fuzzing.
 
 ## Vulnerabilities 
 - [NoSQL-Injection Wordlist](https://github.com/cr0hn/nosqlinjection_wordlists/blob/master/mongodb_nosqli.txt) - List of payloads to test NoSQL Injections.
+- [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) - Large collection of attack patterns, predictable resources, and fuzzing payloads.
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - Extensive payload collection for testing many vulnerability classes.
 
 ## Portuguese wordlists
 - [Dadoware](https://github.com/thoughtworks/dadoware) - Regular Portuguese words.
@@ -91,3 +96,5 @@ Thank you so much to everyone who helped make this list better!
 - [itsmohitnarayan](https://github.com/itsmohitnarayan/)
 - [keyboardslap](https://github.com/keyboardslap/)
 - [sakkarose](https://github.com/sakkarose)
+- [Zierax](https://github.com/Zierax)
+
