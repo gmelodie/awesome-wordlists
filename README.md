@@ -83,18 +83,3 @@ I want contributing to this awesome list to be as simple as possible. Just:
 4. Submit a PR
 
 Thank you for contributing!
-
-## Contributors
-Thank you so much to everyone who helped make this list better!
-
-- [gmelodie](https://github.com/gmelodie/)
-- [narkopolo](https://github.com/narkopolo/)
-- [its0x08](https://github.com/its0x08)
-- [theophpo](https://github.com/theophpo)
-- [P1YUSH](https://github.com/piyush-security/)
-- [iam-py-test](https://github.com/iam-py-test/)
-- [itsmohitnarayan](https://github.com/itsmohitnarayan/)
-- [keyboardslap](https://github.com/keyboardslap/)
-- [sakkarose](https://github.com/sakkarose)
-- [Zierax](https://github.com/Zierax)
-
