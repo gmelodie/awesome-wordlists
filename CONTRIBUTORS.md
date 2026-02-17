@@ -9,5 +9,5 @@ Thank you so much for everyone who helped make this list better!
 - [iam-py-test](https://github.com/iam-py-test/)
 - [itsmohitnarayan](https://github.com/itsmohitnarayan/)
 - [keyboardslap](https://github.com/keyboardslap/)
-- [Zierax](https://github.com/Ziera)
+- [Zierax](https://github.com/Zierax)
 
