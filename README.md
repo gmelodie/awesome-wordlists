@@ -15,7 +15,7 @@ A curated list of wordlists for brute-forcing and fuzzing.
 - [Miscellaneous](#miscellaneous)
 
 ## Lists of Lists
-
+- [EbraSha Awesome Wordlists](https://github.com/ebrasha/awesome-wordlists) - Ultimate Security, Payloads, Pentesting & Fuzzing Wordlists Collection.
 - [SecLists](https://github.com/danielmiessler/SecLists) - Collection of useful wordlists grouped by context.
 - [Xajkep's Wordlists](https://github.com/xajkep/wordlists) - Wordlists curated by Xajkep grouped by context.
 - [Bug-Bounty-Wordlists](https://github.com/Karanxa/Bug-Bounty-Wordlists) - A repository that includes all the important wordlists used while bug hunting.
