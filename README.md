@@ -10,8 +10,7 @@ A curated list of wordlists for brute-forcing and fuzzing.
 - [Passwords](#passwords)
 - [Usernames](#usernames)
 - [Vulnerabilities](#vulnerabilities)
-- [Portuguese Wordlists](#portuguese-wordlists)
-- [Other Non-English Wordlists](#other-non-english-wordlists)
+- [Non-English Wordlists](#non-english-wordlists)
 - [Miscellaneous](#miscellaneous)
 
 ## Lists of Lists
@@ -60,19 +59,20 @@ A curated list of wordlists for brute-forcing and fuzzing.
 - [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) - Large collection of attack patterns, predictable resources, and fuzzing payloads.
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - Extensive payload collection for testing many vulnerability classes.
 
-## Portuguese Wordlists
+## Non-English Wordlists
 
+#### Portugese
 - [Dadoware](https://github.com/thoughtworks/dadoware) - Regular Portuguese words.
 - [words-pt](https://github.com/jfoclpf/words-pt) - Regular Portuguese words.
 - [br-wordlist](https://github.com/mmatje/br-wordlist) - Brazilian password wordlist.
 - [BRDumps](https://github.com/BRDumps) - Localized tools and wordlists for Brazilian Portuguese passwords.
 
-## Other Non-English Wordlists
-
-- [French Wordlists](https://github.com/clem9669/wordlists) - Collection of French wordlists.
+#### Other Languages
+- [French wordlists](https://github.com/clem9669/wordlists) - Collection of French wordlists.
 - [danish-wordlists](https://github.com/n0kovo/danish-wordlists) - Collection of Danish base wordlists.
 - [albanian-wordlist](https://github.com/its0x08/albanian-wordlist) - Albanian wordlist with a mix of names, last names, and Albanian literature.
 - [medical-wordlist](https://github.com/theophpo/medical-wordlist) - Medical wordlists in English, French, and Ukrainian languages for spell checking.
+- [indonesian-wordlist](https://github.com/geovedi/indonesian-wordlist) - Collection of Indonesian wordlists for password cracking.
 
 ## Miscellaneous
 
