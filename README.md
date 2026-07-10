@@ -61,13 +61,12 @@ A curated list of wordlists for brute-forcing and fuzzing.
 
 ## Non-English Wordlists
 
-#### Portugese
-- [Dadoware](https://github.com/thoughtworks/dadoware) - Regular Portuguese words.
-- [words-pt](https://github.com/jfoclpf/words-pt) - Regular Portuguese words.
-- [br-wordlist](https://github.com/mmatje/br-wordlist) - Brazilian password wordlist.
-- [BRDumps](https://github.com/BRDumps) - Localized tools and wordlists for Brazilian Portuguese passwords.
+### Portuguese
+- [Dadoware](https://github.com/thoughtworks/dadoware) - Diceware-style passphrase wordlist in Portuguese.
+- [words-pt](https://github.com/jfoclpf/words-pt) - Dictionary of common European Portuguese words.
+- [BRDumps Wordlists](https://github.com/BRDumps/wordlists) - Wordlists based on Brazilian passwords and dictionaries.
 
-#### Other Languages
+### Other Languages
 - [French wordlists](https://github.com/clem9669/wordlists) - Collection of French wordlists.
 - [danish-wordlists](https://github.com/n0kovo/danish-wordlists) - Collection of Danish base wordlists.
 - [albanian-wordlist](https://github.com/its0x08/albanian-wordlist) - Albanian wordlist with a mix of names, last names, and Albanian literature.
@@ -79,11 +78,11 @@ A curated list of wordlists for brute-forcing and fuzzing.
 - [Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Research on several types of wordlists.
 - [Kali Wordlists](https://github.com/3ndG4me/KaliLists) - Kali Linux's default wordlists.
 - [Blog g0tmi1k](http://blog.g0tmi1k.com/2011/06/dictionaries-wordlists/) - G0tmi1k's post on what makes a good dictionary.
-- [Skull Security Passwords](https://wiki.skullsecurity.org/Passwords) - Skull Security's password lists.
+- [Skull Security Passwords](https://skullsecurity.org/categories/passwords.html) - Skull Security's password lists.
 - [Trickest Wordlists](https://github.com/trickest/wordlists) - Real-world infosec wordlists, updated regularly.
 - [Assetnote Wordlists](https://github.com/assetnote/wordlists) - Automated and manual wordlists provided by Assetnote.
 - [Honey](https://github.com/gmelodie/honey) - Honeypot for automated wordlist generation.
 
 ## Contributing
 
-See [contributing.md](contributing.md) for guidelines on how to contribute.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
