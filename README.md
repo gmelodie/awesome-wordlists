@@ -82,6 +82,7 @@ A curated list of wordlists for brute-forcing and fuzzing.
 - [Trickest Wordlists](https://github.com/trickest/wordlists) - Real-world infosec wordlists, updated regularly.
 - [Assetnote Wordlists](https://github.com/assetnote/wordlists) - Automated and manual wordlists provided by Assetnote.
 - [Honey](https://github.com/gmelodie/honey) - Honeypot for automated wordlist generation.
+- [wordlist-tool](https://github.com/RMNO21/wordlist-tool) - Customizable Python CLI tool and PyPI package for generating combinatorial wordlists, permutations, and dictionary variations for security auditing.
 
 ## Contributing
 
