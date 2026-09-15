@@ -70,7 +70,6 @@ A curated list of wordlists for brute-forcing and fuzzing.
 - [French wordlists](https://github.com/clem9669/wordlists) - Collection of French wordlists.
 - [danish-wordlists](https://github.com/n0kovo/danish-wordlists) - Collection of Danish base wordlists.
 - [albanian-wordlist](https://github.com/its0x08/albanian-wordlist) - Albanian wordlist with a mix of names, last names, and Albanian literature.
-- [medical-wordlist](https://github.com/theophpo/medical-wordlist) - Medical wordlists in English, French, and Ukrainian languages for spell checking.
 - [indonesian-wordlist](https://github.com/geovedi/indonesian-wordlist) - Collection of Indonesian wordlists for password cracking.
 
 ## Miscellaneous
